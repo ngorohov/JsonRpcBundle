@@ -1,9 +1,9 @@
 {
-  "name": "neofusion/json-rpc-bundle",
+  "name": "ngorohov/json-rpc-bundle",
   "type": "symfony-bundle",
   "description": "JSON-RPC 2.0 Server for Symfony",
   "keywords": ["symfony", "json-rpc"],
-  "homepage": "https://github.com/NeoFusion/JsonRpcBundle",
+  "homepage": "https://github.com/ngorohov/JsonRpcBundle",
   "license": "MIT",
   "authors": [
     {
